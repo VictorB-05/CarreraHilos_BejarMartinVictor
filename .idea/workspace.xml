@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e9afe0-8b52-42a5-8404-4795691c9bb9" name="Changes" comment="Se ha hecho la interfaz y que los hilos corran tambienb que el program identifique el que primero llegue">
-      <change afterPath="$PROJECT_DIR$/src/img/icono.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/restart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Corredor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Corredor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/Luigi.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/Luigi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/avaismarus.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/avaismarus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/miniPekka.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/miniPekka.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/pibeChill.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "VictorB-05"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/VictorB-05/CarreraHilos_BejarMartinVictor.git",
+    "accountId": "6fb77579-f948-49e1-873b-9f49b29ecc4c"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -80,13 +85,6 @@
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-20.0.2-azul-20.0.2-4caba194b151-eb49e076" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

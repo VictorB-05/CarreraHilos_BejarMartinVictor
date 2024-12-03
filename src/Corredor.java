@@ -8,6 +8,8 @@ public class Corredor extends JComponent implements Runnable{
     private static boolean fin = false;
     private int velocidad = 5;
     private String nombre;
+    @SuppressWarnings("FieldCanBeLocal")
+    private final int DISTANCIA = 700;
 
     public Corredor(String imagen) throws IOException {
         super();
@@ -50,7 +52,7 @@ public class Corredor extends JComponent implements Runnable{
 
     @Override
     public void run() {
-        while(this.getY()<700 && !fin){
+        while(this.getY()<DISTANCIA && !fin){
             try {
                 cambioV();
                 this.setLocation(this.getX(), (this.getY()+velocidad));
